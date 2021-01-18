@@ -1,10 +1,12 @@
-#' Find the distance between two points on the Earth's surface
+#' @title Find the distance between two points on the Earth's surface
 #'
-#' Specify the location of the points by latitude and longitude.  The calculation is done
+#' @description Specify the location of the points by latitude and longitude.  The calculation is done
 #' under the assumption that the Earth is a sphere of radius 6371 km, using the Haversine formula. The
 #' distance calculated is a great-circle distance on a sphere.  This will be accurate within 10s of miles for
 #' points in distant parts of the Earth.  For points that are nearby (say, in the same city) the accuracy is much better, meters.
 #' )
+#'
+#' @author Daniel Kaplan
 #'
 #' @param lat1 Latitude of the first point
 #' @param lon1 Longitude of the first point
