@@ -14,6 +14,7 @@ Supplemental materials accompanying Data Computing (2nd ed.) by Kaplan &amp; Bec
 - [DC_Stations.csv](data/DC_Stations.csv)
 - [electionStatistics.csv](data/electionStatistics.csv)
 - [engines.csv](data/engines.csv)
+- [haversine.R](R/haversine.R)
 - [house_codes.csv](data/house_codes.csv)
 - [houses-for-sale.csv](data/houses-for-sale.csv)
 - [MeasTreatTables.csv](data/MeasTreatTables.csv)
